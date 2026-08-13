@@ -1,40 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Backend%20Developer&fontSize=45&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Building%20systems%2C%20one%20function%20at%20a%20time&descAlignY=58&descAlign=50" width="100%"/>
-
-<a href="https://github.com/rvpatil370124-GOAT">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&italic=true&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Rushikesh+%F0%9F%91%8B;Backend+Developer+in+Progress;DSA+with+C%2B%2B+%26+JavaScript;Linux+Mint+Daily+Driver+%F0%9F%90%A7" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh+Patil;Backend+Developer;%3E+Learning+in+Public%2C+Shipping+in+Private" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rvpatil370124-GOAT&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<p>Building reliable backend systems with clean architecture and scalable solutions.</p>
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## 🚀 About Me
 
-- 🎓 3rd-year **Computer Engineering** student at **K. K. Wagh Institute of Engineering Education & Research (KKWIEER), Nashik**
-- 🔭 Core focus: **Backend Engineering** and **Data Structures & Algorithms**
-- 🌱 Currently learning **JavaScript (backend)** and sharpening **DSA in C++**
-- 🛠️ Actively building the web version of my **LAN Classroom Collaboration System**
-- 🐧 Daily driving **Linux Mint** — Linux enthusiast at heart
-- 🎫 GitHub Student Developer Pack holder
-- 🧩 Beginner on **LeetCode**, grinding problems one at a time
-- 💬 Ask me about backend systems, DSA problem-solving, or Linux setups
+**Rushikesh (Rishi)**, here — a third-year Computer Science student focused on backend development.
+
+I enjoy building reliable, well-structured systems with **Node.js**, **TypeScript**, **Java**, and **C++**, and I'm continuously strengthening my grip on data structures, algorithms, and system design.
+
+Currently, I'm deepening my **Git/GitHub** workflow and working on **JavaFX** and Maven-based desktop applications, alongside a web-based real-time collaboration platform.
+
+My goal is simple: understand systems deeply, write clean code, and grow into a backend engineer who builds things that last.
 
 <br/>
 
-## 🧰 Tech Stack
+## 🤝 Connect
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<a href="https://github.com/rvpatil370124-GOAT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rushikesh-patil-9ab234329/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:patilrushikesh1979@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/KRYPTONITE_0028/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,cpp,python,c,git,github,vscode,mint,html,css,nodejs,maven&theme=dark" />
 
 </div>
 
@@ -44,63 +57,48 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rvpatil370124-GOAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvpatil370124-GOAT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rvpatil370124-GOAT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvpatil370124-GOAT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvpatil370124-GOAT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvpatil370124-GOAT&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rvpatil370124-GOAT&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvpatil370124-GOAT&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🧮 LeetCode Stats
+## ⌘ Commit Activity
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/KRYPTONITE_0028?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats"/>
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## ⌘ Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/output/github-contribution-grid-snake-dark-blue.svg" alt="Contribution Snake animation" width="100%"/>
+> "Simplicity is the soul of efficiency."
+>
+> — Austin Freeman
 
 </div>
-
-<br/>
-
-## 🎓 GitHub Student Developer Pack
-
-<div align="center">
-
-![GitHub Student Pack](https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Active-38BDF8?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-patil-9ab234329)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patilrushikesh1979@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KRYPTONITE_0028/)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
