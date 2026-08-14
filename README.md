@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/banner.jpg" width="100%"/>
+
+<br/><br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh+Patil;Backend+Developer;%3E+Learning+in+Public%2C+Shipping+in+Private" alt="Typing SVG" />
 </a>
@@ -12,6 +16,10 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 **Rushikesh (Rishi)**, here — a third-year Computer Science student focused on backend development.
 
 I enjoy building reliable, well-structured systems with **Node.js**, **TypeScript**, **Java**, and **C++**, and I'm continuously strengthening my grip on data structures, algorithms, and system design.
@@ -19,6 +27,15 @@ I enjoy building reliable, well-structured systems with **Node.js**, **TypeScrip
 Currently, I'm deepening my **Git/GitHub** workflow and working on **JavaFX** and Maven-based desktop applications, alongside a web-based real-time collaboration platform.
 
 My goal is simple: understand systems deeply, write clean code, and grow into a backend engineer who builds things that last.
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/astronaut.png" width="260"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
