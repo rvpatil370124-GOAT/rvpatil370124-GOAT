@@ -16,9 +16,9 @@
 
 <h2 align="center">🚀 ABOUT ME</h2>
 
-<table>
-<tr>
-<td width="65%" valign="top" align="center">
+<img align="right" src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/astronaut.png" width="260"/>
+
+<i>
 
 **Rushikesh (Rishi)**, here — a third-year Computer Science student focused on backend development.
 
@@ -28,14 +28,9 @@ Currently, I'm deepening my **Git/GitHub** workflow and working on **JavaFX** an
 
 My goal is simple: understand systems deeply, write clean code, and grow into a backend engineer who builds things that last.
 
-</td>
-<td width="35%" valign="top" align="center">
+</i>
 
-<img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/astronaut.png" width="260"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
