@@ -5,20 +5,20 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh+Patil;Backend+Developer;%3E+Learning+in+Public%2C+Shipping+in+Private" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh+Patil;Backend+Developer;%3E+Learning+in+Public%2C+Shipping+in+Private" alt="Typing SVG" />
 </a>
 
-<p>Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p><b><i>Building reliable backend systems with clean architecture and scalable solutions.</i></b></p>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+<h2 align="center">🚀 ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="top" align="center">
 
 **Rushikesh (Rishi)**, here — a third-year Computer Science student focused on backend development.
 
@@ -39,28 +39,31 @@ My goal is simple: understand systems deeply, write clean code, and grow into a 
 
 <br/>
 
-## 🤝 Connect
+<h2 align="center">🤝 CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/rvpatil370124-GOAT" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rushikesh-patil-9ab234329/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
+&nbsp;
 <a href="mailto:patilrushikesh1979@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/KRYPTONITE_0028/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/leetcode.png" height="48"/>
 </a>
 
 </div>
 
 <br/>
 
-## 💻 Tech Stack
+<h2 align="center">💻 TECH STACK</h2>
 
 <div align="center">
 
@@ -70,22 +73,22 @@ My goal is simple: understand systems deeply, write clean code, and grow into a 
 
 <br/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GITHUB STATS</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rvpatil370124-GOAT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvpatil370124-GOAT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rvpatil370124-GOAT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&include_all_commits=true&cache_seconds=0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvpatil370124-GOAT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true&cache_seconds=0" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvpatil370124-GOAT&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=rvpatil370124-GOAT&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
+<h2 align="center">📈 ACTIVITY GRAPH</h2>
 
 <div align="center">
 
@@ -95,7 +98,7 @@ My goal is simple: understand systems deeply, write clean code, and grow into a 
 
 <br/>
 
-## ⌘ Commit Activity
+<h2 align="center">⌘ COMMIT ACTIVITY</h2>
 
 <div align="center">
 
@@ -110,12 +113,10 @@ My goal is simple: understand systems deeply, write clean code, and grow into a 
 
 <br/>
 
-## ⌘ Philosophy
+<h2 align="center">⌘ PHILOSOPHY</h2>
 
 <div align="center">
 
-> "Simplicity is the soul of efficiency."
->
-> — Austin Freeman
+<img src="https://raw.githubusercontent.com/rvpatil370124-GOAT/rvpatil370124-GOAT/main/assets/quote.svg" width="700"/>
 
 </div>
