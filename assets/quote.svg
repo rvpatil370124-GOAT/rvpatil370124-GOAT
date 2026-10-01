@@ -1,0 +1,23 @@
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .card { fill: #111820; stroke: #30363D; stroke-width: 1.5; }
+      .quote { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: 600; fill: #C9D1D9; }
+      .author { font-family: 'Trebuchet MS', Verdana, sans-serif; font-weight: 700; fill: #58A6FF; }
+      .mark { font-family: Georgia, serif; font-weight: 700; fill: #58A6FF; opacity: 0.25; }
+    </style>
+  </defs>
+
+  <rect class="card" x="4" y="4" width="692" height="192" rx="26"/>
+
+  <text class="mark" x="34" y="80" font-size="72">&#8220;</text>
+  <text class="mark" x="620" y="170" font-size="72" text-anchor="end">&#8221;</text>
+
+  <text class="quote" x="350" y="95" font-size="26" text-anchor="middle">
+    "Simplicity is the soul of efficiency."
+  </text>
+
+  <text class="author" x="350" y="140" font-size="17" text-anchor="middle">
+    — Austin Freeman
+  </text>
+</svg>
